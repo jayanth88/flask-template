@@ -1,1 +1,4 @@
 *.pyc
+
+flask-venv/*
+config/appProperties.py
