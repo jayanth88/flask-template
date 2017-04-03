@@ -1,0 +1,4 @@
+ACCESS_KEY='API_KEY'
+SECRET_KEY='SECRET_KEY'
+
+API_ENDPOINT = 'https://www.example.com'
